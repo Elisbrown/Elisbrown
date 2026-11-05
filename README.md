@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Elisbrown
 
-<!--
-**Elisbrown/Elisbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of [Sigalix](https://sigalix.com). I build SaaS products, web apps and the infrastructure that runs them.
 
-Here are some ideas to get you started:
+**Shipped:**
+- [LoungeOS](https://loungeos.app): offline POS for restaurants and bars, sold on subscription, with its own billing and licensing platform
+- [Bravery OS](https://bbha.cm): four-portal venue and property platform on one Next.js app, hosted and monitored by me
+- [Syllabus](https://syllabus.cm): bilingual school management with mobile money payments
+- SOCOtv: movie streaming and live TV for Android, Windows, macOS and LG webOS
+- Dayline: multi-tenant social publishing SaaS (Laravel, Vue, 795 tests)
+- [retime-nle](https://www.npmjs.com/package/retime-nle): export Remotion timelines to Final Cut Pro, Premiere Pro and DaVinci Resolve
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** TypeScript · React · Next.js · Node.js · Laravel · PostgreSQL · MySQL · Prisma · Clerk · Docker · nginx · GCP
+
+**Contact:** elisbrown@sigalix.com · [LinkedIn](https://linkedin.com/in/sunyin-elisbrown)
